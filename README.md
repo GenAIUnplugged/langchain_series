@@ -36,10 +36,15 @@ To get the most out of this series:
    cd langchain_series
 
 2. Set Up a Virtual Environment:
-  ```
+  ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. Install Dependencies
+```bash
+pip install -r requirements.txt
    
-5. Launch Jupyter Notebook
+4. Launch Jupyter Notebook
+```bash
+jupyter notebook
+
