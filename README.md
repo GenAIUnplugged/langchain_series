@@ -35,16 +35,16 @@ To get the most out of this series:
    git clone https://github.com/GenAIUnplugged/langchain_series.git
    cd langchain_series
 
-2. Set Up a Virtual Environment:
+2. **Set Up a Virtual Environment:**
   ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3. Install Dependencies
+3. **Install Dependencies:**
 ```bash
 pip install -r requirements.txt
    
-4. Launch Jupyter Notebook
+4. **Launch Jupyter Notebook:**
 ```bash
 jupyter notebook
 
